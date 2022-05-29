@@ -12,14 +12,21 @@
 <body>
 
   <main>
-    <section>
-      <h1>Le Chat <span>waar je niet weet met wie je chat...</span></h1>
+    <section class="comments">
+      <h1>Reacties</h1>
+      <p>Plaats hier een reactie. Er zijn nu <span id="count">0</span> gebruikers online.</p>
       <ul></ul>
-      <form>
-        <input type="text" autocomplete="off">
-        <button><span>Send</span></button>
-      </form>
-    </section>
+      <div id="feedback"></div>
+    <form>
+      <label for="handle">Gebruikersnaam</label>
+      <input id="handle" type="text" name="handle" />
+      <label for="message">Bericht</label>
+      <div class="comment">
+        <input id="message" type="text" name="message" placeholder="Plaats een reactie..." autocomplete="off">
+        <button>Verstuur</button>
+      </div>
+    </form>
+  </section>
   </main>
 
   <script src="/socket.io/socket.io.js"></script>
