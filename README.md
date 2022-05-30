@@ -19,7 +19,7 @@ Met deze chat kan je een reactie plaatsen en een gebruikersnaam kiezen. Ook kan 
 
 ![FireShot Capture 006 - Barebone chat - localhost](https://user-images.githubusercontent.com/69635977/170892796-36086df7-8bd3-4576-aa79-190be88f4e54.png)
 
-## Kenmerken
+## 💣Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
 ## Installatie
