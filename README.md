@@ -7,7 +7,7 @@ Een chat gemaakt in de huistijl van Coding the Curbs met behulp van Socket.IO, N
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
-  * [Installatie & Gebruik](#installatie-&-gebruik)
+  * [Installatie & Gebruik](#installatie&gebruik)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
