@@ -21,8 +21,32 @@ Met deze chat kan je een reactie plaatsen en een gebruikersnaam kiezen. Ook kan 
 
 ## 💣Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+## Kenmerken
+- 💀 HTML5
+- 🧍 CSS3
+- ⚽ JavaScript
+- 🐸 Node.js
+- 🥇 Express
+- 🤳 Socket.IO
+
+### Tools gebruikt:
+- 💻 Visual Studio Code
 
 ## 💫Installatie
+
+**Installeren met HTTPS**
+
+```
+git clone https://github.com/DphnZwp/performance-matters-coding-the-curbs
+cd https://github.com/DphnZwp/performance-matters-coding-the-curbs.git
+```
+
+**Installeren met SSH**
+```
+git@github.com:DphnZwp/performance-matters-coding-the-curbs.git
+cd performance-matters-coding-the-curbs.git
+
+```
 
 ## Gebruik
 
