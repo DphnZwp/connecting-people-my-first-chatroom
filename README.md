@@ -32,7 +32,12 @@ Met deze chat kan je een reactie plaatsen en een gebruikersnaam kiezen. Ook kan 
 ### Tools gebruikt:
 - 💻 Visual Studio Code
 
-## 💫Installatie
+## 💫Installatie & Gebruik
+1. Clone of download deze respository.
+2. Ga naar de root directory van het project.
+3. Open een nieuwe terminal en typ "npm run start" of "npm run dev".
+
+Hieronder zijn commandlines van HTTPS en SSH die je kunt uitvoeren in de opdrachtprompt om het project te clonen en om naar de root directory te gaan.
 
 **Installeren met HTTPS**
 
@@ -47,8 +52,6 @@ git@github.com:DphnZwp/performance-matters-coding-the-curbs.git
 cd performance-matters-coding-the-curbs.git
 
 ```
-
-## Gebruik
 
 ## Bronnen
 
